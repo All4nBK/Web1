@@ -70,6 +70,7 @@ body {
 .imagem-texto-2 {
     text-align: left;
     margin: 10px;
+    pagging: 10px;
     width: auto;
     height: auto;
     background-color: rgb(255, 255, 255);
